@@ -1,0 +1,33 @@
+.app{
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+.heading{
+    text-align: center;
+    padding: 40px 0px;
+    font-size: 40px;
+}
+.input{
+    width: 80%;
+    margin: 0 auto;
+}
+.input input{
+    width: 100%;
+    padding: 8px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+
+input[type=text]{
+    font-size: 15px;
+}
+.btn{
+    width: 80%;
+    margin: 25px auto;
+}
+button{
+    padding: 6px 45px;
+    cursor: pointer;
+}
